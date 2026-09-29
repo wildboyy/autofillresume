@@ -1,0 +1,12 @@
+# macOS 垃圾文件
+.DS_Store
+
+# 日志
+*.log
+
+# 依赖（本 skill 无 node_modules，留着防将来引入）
+node_modules/
+
+# 编辑器临时文件
+*.swp
+*~
